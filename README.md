@@ -6,12 +6,6 @@ Built as a semester-end C++ project — solo development.
 
 ---
 
-## Screenshots
-
-> Open the project in Qt Creator and build to run. Screenshots can be added here after running.
-
----
-
 ## Features
 
 ### Authentication
