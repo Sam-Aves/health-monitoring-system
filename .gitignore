@@ -1,0 +1,29 @@
+# Qt build artifacts
+build/
+*.pro.user
+*.pro.user.*
+
+# Compiled output
+*.o
+*.exe
+*.out
+*.a
+*.dll
+
+# Qt generated
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
+object_script.*
+
+# Database (runtime data)
+*.sqlite
+*.db
+
+# IDE
+.vscode/
+.idea/
